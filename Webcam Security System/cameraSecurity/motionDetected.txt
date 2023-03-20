@@ -1,0 +1,4 @@
+Motion detected number 1
+2023-01-17 at 13:26:24 EET
+Motion detected number 2
+2023-01-17 at 13:26:28 EET
