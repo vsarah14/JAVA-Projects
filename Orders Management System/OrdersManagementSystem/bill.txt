@@ -1,0 +1,5 @@
+Order id: 1
+Client name: Patriciu
+Product name: briosa
+Quantity: 12
+Total price: 72
