@@ -1,0 +1,6 @@
+Order id: 1
+Order date: 13-12-2022
+Order hour: 2
+Products:
+Name: Fresh Corn Tortillas , Price: 79
+Total price: 79

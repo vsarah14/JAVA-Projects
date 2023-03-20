@@ -1,0 +1,13 @@
+Order id: 1
+Order id: 0
+Products are: 
+Fresh Corn Tortillas , number of orders: 2
+Spicy Pickled Shallots , number of orders: 1
+Quick & Spicy Asian Pickles , number of orders: 1
+
+Order id: 1
+Order id: 0
+Products are: 
+Fresh Corn Tortillas , number of orders: 2
+Quick & Spicy Asian Pickles , number of orders: 1
+
